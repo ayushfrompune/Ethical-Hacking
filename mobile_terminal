@@ -1,0 +1,26 @@
+1 cd ~/.vnc/
+    2 cd /data/local
+    3 cd kali
+    4 ls
+    5 cd /data/local/kali/root/
+    6 ls lrt
+    7 ls
+    8 sudo ls
+    9 ls -r
+   10 -r
+   11 -r ls
+   12 9C
+   13 exit
+   14 cd /sdcard
+   15 cd /sdcard -r
+   16 cd /sdcard/
+   17 cd shizuku
+   18 ls
+   19 cp * ~/
+   20 cd ~/
+   21 ls
+   22 nano rish
+   23 chmod +x rish
+   24 ls
+   25 ./rish
+   26 exit
